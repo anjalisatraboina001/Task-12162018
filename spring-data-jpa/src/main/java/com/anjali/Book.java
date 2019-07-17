@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.anjali;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
