@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.anjali;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
